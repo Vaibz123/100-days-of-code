@@ -10,3 +10,5 @@ Started a webapp for magic square of order 5
 Created a magic box of order 5
 ### R1D3
 Did the backend part little bit
+### R1D3
+Completed with logic/backend part
