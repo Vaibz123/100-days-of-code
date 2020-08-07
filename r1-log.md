@@ -7,7 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [August 4, Tuesday, 2020].
 ### R1D0 
 Started a webapp for magic square of order 5
 ### R1D1
-Created a magic box of order 5
+Created a magic square of order 5
 ### R1D2
 Did the backend part little bit
 ### R1D3
