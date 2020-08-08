@@ -7,7 +7,7 @@ Today's Progress: Started with new project to create web app for Magic Square. C
 		
 Thoughts: Feels good to have made a start
 
-Link to work:   [Magic Square](https://github.com/Vaibz123/5-by-5-magic-square)
+Link to work:   [Magic Square](https://github.com/Vaibz123/5-by-5-magic-square/commit/01344da52149eb27509434bf0a6d85a0f3618c5b)
 
 Day 1: August 5,2020
 
@@ -16,7 +16,7 @@ Today's Progress: Created an editable magic square of order 5 with 2 buttons bel
 		  
 Thoughts: It was a good experience working with Flexbox
 
-Link to work:   [Magic square](https://github.com/Vaibz123/5-by-5-magic-square)
+Link to work:   [Magic square](https://github.com/Vaibz123/5-by-5-magic-square/commit/01344da52149eb27509434bf0a6d85a0f3618c5b)
 
 Day 2: August 6, 2020
 
@@ -33,5 +33,13 @@ Today's Progress: Completed backend/logic part of Magic Square (generating rando
 Thoughts: Feels good to have completed this at much lesser time than expected.
 
 Link to work: [Magic Square](https://github.com/Vaibz123/5-by-5-magic-square/commit/21541c0e20915fbd5b18ad86611bbded562a06d0)
+
+Day 4: August 8, 2020
+
+Today's Progress: Completed Magic Square webapp locally by adding rules(LHS) and score(RHS)
+
+Thoughts: Looking forward to keep being consistent throughout this journey
+
+Link to work: [Magic Square](https://github.com/Vaibz123/5-by-5-magic-square/commit/9e17aaf73d561556032bcec8642b35014686a3fa)
 
 
