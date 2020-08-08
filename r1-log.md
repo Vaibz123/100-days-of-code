@@ -12,3 +12,5 @@ Created a magic square of order 5
 Did the backend part little bit
 ### R1D3
 Completed with logic/backend part
+### R1D4
+Completed with Magic square by adding rules and scoreboard
