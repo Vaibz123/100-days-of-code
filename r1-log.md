@@ -14,3 +14,5 @@ Did the backend part little bit
 Completed with logic/backend part
 ### R1D4
 Completed with Magic square by adding rules and scoreboard
+### R1D5
+Started automation project and completed Login part
