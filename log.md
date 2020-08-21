@@ -68,7 +68,7 @@ Progress: Did the classification of tweets using Logistic regression
 
 Thoughts: I missed the last 2 days consecutively which is against the rules. Will try to cover for that by not missing a day in next 21 days
 
-Link to work:[Logistic regression-Classifying tweets](https://github.com/Vaibz123/NLP_ClassificationAndVectorSpaces/blob/master/Classification-Logistic%20regression.py)
+Link to work: [Logistic regression-Classifying tweets](https://github.com/Vaibz123/NLP_ClassificationAndVectorSpaces/blob/master/Classification-Logistic%20regression.py)
 
 Day 9: August 15, 2020
 
@@ -76,7 +76,7 @@ Progress: Learnt doing face detection using Python. A very simple thing to do al
 
 Feelings: Have become a bit lazy these days. Getting on track after taking a break in between is not an easy thing to do.
 
-Link to work:[Face detection](https://github.com/Vaibz123/Random/commit/63495b2707b62df9d486cf4d5a512d0e3ceefcdb)
+Link to work: [Face detection](https://github.com/Vaibz123/Random/commit/63495b2707b62df9d486cf4d5a512d0e3ceefcdb)
 
 Day 10: August 16, 2020
 
@@ -84,7 +84,7 @@ Progress: Learnt Naive Bayes and implemented  classification of tweets using Nai
 
 Thoughts: Was stuck on it in the middle because of a silly mistake
 
-Link to work:[Naive Bayes-Classifying tweets](https://github.com/Vaibz123/NLP_ClassificationAndVectorSpaces/blob/master/Classifying%20tweets-Naive%20Bayes.py)
+Link to work: [Naive Bayes-Classifying tweets](https://github.com/Vaibz123/NLP_ClassificationAndVectorSpaces/blob/master/Classifying%20tweets-Naive%20Bayes.py)
 
 Day 11: August 17, 2020
 
@@ -98,7 +98,7 @@ Progress: Started implementing PCA on word vectors
 
 Feelings: I am going a little slow nowadays. Needs to pick up my speed.
 
-Link to work:[PCA]()
+Link to work: [PCA]()
 
 Day 13: August 19,2020
 
@@ -106,7 +106,7 @@ Progress: Completed implementing PCA  algorithm on word vectors to find a group 
 
 Feelings: Performing PCA for visualizing data was fun to do.
 
-Link to work:[PCA]()
+Link to work: [PCA]()
 
 Day 14: August 20,2020
 
@@ -120,4 +120,4 @@ Progress: Designed my first basic and simple image using CSS-Android logo.
 
 Feelings: It was easy and fun to do.
 
-Link to work:[Android Logo](https://github.com/Vaibz123/Random/commit/d896d27c97385604fce221b211fe6000feca5874)
+Link to work: [Android Logo](https://github.com/Vaibz123/Random/commit/d896d27c97385604fce221b211fe6000feca5874)
