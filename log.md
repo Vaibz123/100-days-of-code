@@ -76,6 +76,8 @@ Progress: Learnt doing face detection using Python. A very simple thing to do al
 
 Feelings: Have become a bit lazy these days. Getting on track after taking a break in between is not an easy thing to do.
 
+Link to work:[Face detection](https://github.com/Vaibz123/Random/commit/63495b2707b62df9d486cf4d5a512d0e3ceefcdb)
+
 Day 10: August 16, 2020
 
 Progress: Learnt Naive Bayes and implemented  classification of tweets using Naive Bayes
@@ -94,13 +96,17 @@ Day 12: August 18, 2020
 
 Progress: Started implementing PCA on word vectors
 
-Feelings: I am going a little slow nowadays.Needs to pick up my speed.
+Feelings: I am going a little slow nowadays. Needs to pick up my speed.
+
+Link to work:[PCA]()
 
 Day 13: August 19,2020
 
 Progress: Completed implementing PCA  algorithm on word vectors to find a group of similar words
 
 Feelings: Performing PCA for visualizing data was fun to do.
+
+Link to work:[PCA]()
 
 Day 14: August 20,2020
 
@@ -114,3 +120,4 @@ Progress: Designed my first basic and simple image using CSS-Android logo.
 
 Feelings: It was easy and fun to do.
 
+Link to work:[Android Logo](https://github.com/Vaibz123/Random/commit/d896d27c97385604fce221b211fe6000feca5874)
